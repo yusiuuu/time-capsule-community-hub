@@ -1,0 +1,1 @@
+mongodb+srv://yusiuuu:<Yusuf@7892>@timecapsulecluster.s4fwi1p.mongodb.net/?retryWrites=true&w=majority&appName=TimeCapsuleCluster
