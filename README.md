@@ -9,7 +9,7 @@ AI-driven web app for community waste exchange with upcycling and need predictio
 
 An AI-driven web app for community waste exchange with upcycling suggestions and need prediction.
 
-## Setup
+## Setup of the project
 
 ### Frontend (React)
 1. `cd client`
